@@ -16,6 +16,10 @@ Proper error handling (network failure, malformed responses, etc.).
 
 Clean folder structure using routes/, services/, and utils/.
 
-
-------setup----
-script to start programme in nodemon  is  = npm start server 
+---------------setup---------------------------
+git clone <your-repo-url>
+cd <project-folder>
+npm install
+npm start server
+server runs on http://localhost:3000
+ 
